@@ -1,1 +1,3 @@
-*.CSS linguist-language = HTML
+* linguist-vendored
+*.html linguist-vendored=true
+*.css linguist-vendored=true
