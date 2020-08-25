@@ -4,10 +4,10 @@
 
 </div>
 
+This is a landing page that user can use for voting system. 
+
 ## Overview 
 ![Index](./images/1.png)
-
-This is a landing page that user can use for voting system. 
 
 ## Disclaimer
 This is an unfinish project. I am stuck with backend development.
